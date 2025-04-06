@@ -6,4 +6,8 @@ $ pkg update && pkg upgrade
 
 $ pkg install git
 
-$ git clone 
+$ git clone https://github.com/cyberscanners/CyberScanners-pkg-tool.git
+
+$ cd CyberScanners-pkg-tool
+
+$ bash pkg.sh
