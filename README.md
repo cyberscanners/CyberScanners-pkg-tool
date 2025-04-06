@@ -1,5 +1,7 @@
 # CyberScanners-Pkg-Tool
 
+TERMUX INSTALL
+
 $ termux-setup-storage
 
 $ pkg update && pkg upgrade
