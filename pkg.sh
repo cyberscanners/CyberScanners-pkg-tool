@@ -2,6 +2,8 @@
 
 pkg update && pkg upgrade && pkg install whiptail
 
+termux-open-url https://chat.whatsapp.com/HlH3EfeFlar5Fy1YCieMKJ
+
 # Colors
 RED='\033[1;31m'
 GREEN='\033[1;32m'
