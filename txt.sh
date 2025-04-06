@@ -1,5 +1,7 @@
 #!/bin/bash
 
+xdg-open https://whatsapp.com/channel/0029Vb6AWzzDjiOhC6NdBE1w
+
 if whiptail --yesno "ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ? [ʏᴇs/ɴᴏ]" 10 60 --title "ᵀᴱᴬᴹ ᵒᶠ 𝗖𝗬𝗕𝗘𝗥 𝗦𝗖𝗔𝗡𝗡𝗘𝗥𝗦 𝗣𝗞𝗚 𝗧𝗢𝗢𝗟"; then
 echo "ʏᴇs "
 else
