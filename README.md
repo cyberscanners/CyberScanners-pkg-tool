@@ -1,5 +1,9 @@
 # CyberScanners-Pkg-Tool
 
+
+PKG-TOOL TERMUX PC OR MOBILE RUN.
+
+
 TERMUX INSTALL
 
 $ termux-setup-storage
