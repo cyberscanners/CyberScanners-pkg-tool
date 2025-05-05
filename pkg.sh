@@ -2,7 +2,7 @@
 
 pkg update && pkg upgrade && pkg install whiptail
 
-termux-open-url https://chat.whatsapp.com/HlH3EfeFlar5Fy1YCieMKJ
+termux-open-url https://cyberscanners1.github.io/CyberScanners.com/
 
 # Colors
 RED='\033[1;31m'
