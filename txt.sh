@@ -6,7 +6,7 @@ else
 echo "ɴᴏ "
 fi
 
-termux-open-url https://youtube.com/@cyber_scanners?si=b1B0skIMWKalNtBC
+termux-open-url https://youtube.com/@slcyberscanners?si=gSGgpV1483nQzjZC
 
 pkg install python
 pkg install python2
